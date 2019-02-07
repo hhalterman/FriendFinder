@@ -7,7 +7,7 @@ var friendsData = [
   },
   {
     name: "Norman Bates",
-    photo:"https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Norman_Bates_in_%22Psycho%22_%281960%29.jpg/250px-Norman_Bates_in_%22Psycho%22_%281960%29.jpg.wikimedia.org/wikipedia/en/thumb/e/e5/No_2_APTSWSM.jpg/200px-No_2_APTSWSM.jpg",
+    photo:"https://upload.wikimedia.org/wikipedia/fi/thumb/8/8a/NormanBates.jpg/1200px-NormanBates.jpg",
     scores: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
   },
   {
